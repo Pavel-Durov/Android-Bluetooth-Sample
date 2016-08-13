@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.done.simlpy.android_bt_sample.MainActivity">
+
+    <item
+        android:id="@+id/action_scan"
+        android:orderInCategory="100"
+        android:title="@string/action_scan"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/action_become_discoverable"
+        android:orderInCategory="100"
+        android:title="@string/action_become_discoverable"
+        app:showAsAction="withText" />
+
+
+    <item
+        android:id="@+id/action_start_server"
+        android:orderInCategory="100"
+        android:title="@string/action_start_server"
+        app:showAsAction="withText" />
+</menu>

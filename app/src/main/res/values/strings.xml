@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">android_BT_sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_scan">Scan</string>
+    <string name="action_become_discoverable">Become Discoverable</string>
+    <string name="action_start_server">Start Server</string>
+
+
+</resources>
